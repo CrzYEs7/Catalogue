@@ -1,4 +1,4 @@
-# Finder: Car Parts
+# Catalogue: Car Parts
 #### Video Demo:  <URL HERE>
 
 ### *Inspiration:*
